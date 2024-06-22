@@ -1,7 +1,7 @@
 /*
-    Error Example
-    Mustafa Can Caliskan
-    ITU Supercomputer Club, 2024
+ * Error Example
+ * Author: Mustafa Can Caliskan
+ * ITU Supercomputer Club, 2024 
 */
 
 /*

@@ -1,7 +1,7 @@
 /*
-    Wrong C Styles
-    Mustafa Can Caliskan
-    ITU Supercomputer Club, 2024
+ * Wrong C Styles
+ * Author: Mustafa Can Caliskan
+ * ITU Supercomputer Club, 2024 
 */
 
 int main()
@@ -24,9 +24,10 @@ printf("Hello\n");
 
 int main () {
     char TürkçeKarakter;
-    float aveRageScoRe__;
+    float _aveRageScoRe__;
     // int 2day;
     char* NAME;
+    float g;
 }
 
 
